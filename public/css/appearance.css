@@ -15,8 +15,8 @@ body[appearance="default"] {
 body[appearance="default"] {
 --light-text: black;
 --dark-text: white;
---highlight: #2493ff;
---bg-main: white;
+--highlight: white;
+--bg-main: #C4A484;
 --placeholder: #666666;
 --border: #5f6368;
 --font-main: Roboto;
